@@ -5,6 +5,9 @@ This site showcases my work in front-end development, cybersecurity learning, an
 
 🔗 **Live Site**: [https://nidarshan-portfolio.netlify.app](https://nidarshan-portfolio.netlify.app)  
 🔗 **GitHub Pages**: [https://havoc-nj.github.io/nidarshan-portfolio](https://havoc-nj.github.io/nidarshan-portfolio)
+## 🔍 Live Preview
+![Preview](preview.png)
+
 
 ## 📄 Features
 - Responsive HTML, CSS, and JS layout
